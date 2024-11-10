@@ -1,2 +1,1 @@
-README
-https://roadmap.sh/projects/single-page-cv
+https://github.com/riozakyln/Cv/blob/main/cv.html
