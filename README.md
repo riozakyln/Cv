@@ -1,1 +1,1 @@
-https://github.com/riozakyln/Cv/blob/main/cv.html
+https://roadmap.sh/projects/single-page-cv
